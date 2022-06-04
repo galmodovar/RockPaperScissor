@@ -1,1 +1,2 @@
- # Rock Paper Scissors console game
+ # Rock Paper Scissors 
+ console game
